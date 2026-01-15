@@ -2,7 +2,7 @@
 
 Landing page moderne et dynamique pour le **Banlieu Karaté Club** (Sénégal), alliant tradition martiale et design premium.
 
-🔗 **Live Demo :** [https://banlieu-karate-club.netlify.app](https://banlieu-karate-club.netlify.app) (Une fois déployé)
+🔗 **Live Demo :** [https://banlieu-karate-club.netlify.app](https://banlieu-karate-club.netlify.app)
 
 ## 🌟 Présentation
 Ce projet vise à promouvoir le dojo avec une interface fluide, impactante et responsive. Il met en avant les disciplines enseignées (Kumite, Kata, Kihon, Self-Défense, Fitness), les valeurs du club, et facilite le contact avec les inscriptions.
