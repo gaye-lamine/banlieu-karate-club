@@ -1,16 +1,63 @@
-# React + Vite
+# Banlieu Karaté Club 🥋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page moderne et dynamique pour le **Banlieu Karaté Club** (Sénégal), alliant tradition martiale et design premium.
 
-Currently, two official plugins are available:
+🔗 **Live Demo :** [https://banlieu-karate-club.netlify.app](https://banlieu-karate-club.netlify.app) (Une fois déployé)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Présentation
+Ce projet vise à promouvoir le dojo avec une interface fluide, impactante et responsive. Il met en avant les disciplines enseignées (Kumite, Kata, Kihon, Self-Défense, Fitness), les valeurs du club, et facilite le contact avec les inscriptions.
 
-## React Compiler
+### Fonctionnalités Clés
+*   **Design Premium** : Charte graphique Rouge/Noir/Blanc, typographie forte (Oswald/Roboto).
+*   **Animations Haute Qualité** : Intégration de **Framer Motion** pour des entrées fluides, du staggering, et des interactions tactiles.
+*   **Responsive Mobile-First** : Expérience optimale sur smartphone et desktop.
+*   **Contenu Complet** : Sections Hero, Présentation, Disciplines, Programmes, Valeurs, FAQ, et CTA.
+*   **Contact Direct** : Bouton d'appel rapide vers le Sensei.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Technologies
+*   **React** (Vite) - Framework JS ultra-rapide.
+*   **Framer Motion** - Bibliothèque d'animation pour des transitions complexes et fluides.
+*   **Lucide React** - Icônes modernes et légères.
+*   **CSS Modules / PostCSS** - Styling propre et maintenable.
 
-## Expanding the ESLint configuration
+## 🚀 Installation & Démarrage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1.  **Cloner le projet**
+    ```bash
+    git clone https://github.com/votre-username/banlieu-karate-club.git
+    cd banlieu-landing-page
+    ```
+
+2.  **Installer les dépendances**
+    ```bash
+    npm install
+    ```
+
+3.  **Lancer le serveur de développement**
+    ```bash
+    npm run dev
+    ```
+    Le site sera accessible sur `http://localhost:5173`.
+
+## 📦 Build & Deploiement
+
+Pour créer la version de production :
+
+```bash
+npm run build
+```
+
+Le dossier `dist/` sera généré. Ce projet est configuré pour un déploiement facile sur **Netlify**.
+
+### Déploiement via Netlify (Recommandé)
+1.  Connectez votre dépôt GitHub à Netlify.
+2.  La configuration est automatique grâce au fichier `netlify.toml` inclus.
+3.  Chaque `git push` déclenchera un nouveau déploiement.
+
+## 📞 Contact
+**Banlieu Karaté Club**  
+Dakar, Sénégal  
+Tel : +221 77 192 32 06
+
+---
+*Fait avec ❤️ et Discipline.*
